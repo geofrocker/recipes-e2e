@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geofrocker/recipes-e2e.git"
+    "url": "git+https://github.com/geofrocker/recipes-e2e-tests-puppeter.git"
   },
   "keywords": [
     "e2e",
@@ -15,9 +15,9 @@
   "author": "geofrocker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geofrocker/recipes-e2e/issues"
+    "url": "https://github.com/geofrocker/recipes-e2e-tests-puppeter/issues"
   },
-  "homepage": "https://github.com/geofrocker/recipes-e2e#readme",
+  "homepage": "https://github.com/geofrocker/recipes-e2e-tests-puppeter#readme",
   "scripts": {
     "test": "cucumber-js"
   },
