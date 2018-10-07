@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log*
+
+# Environment
+.env
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+#VSCode metadata
+.vscode
+
+# Mac files
+.DS_Store
+
+package-lock.json

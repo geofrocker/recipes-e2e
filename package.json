@@ -1,0 +1,29 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "End to end tests for redux yummy app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geofrocker/recipes-e2e.git"
+  },
+  "keywords": [
+    "e2e",
+    "puppeter",
+    "cucumber"
+  ],
+  "author": "geofrocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geofrocker/recipes-e2e/issues"
+  },
+  "homepage": "https://github.com/geofrocker/recipes-e2e#readme",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.0.1",
+    "puppeteer": "^1.9.0"
+  }
+}
